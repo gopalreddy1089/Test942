@@ -1,0 +1,42 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "dummy1",
+    "testCaseInfo": [
+        {
+            "testcaseName": "setup.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "objectsync.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "setflow.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "getflow.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "flush.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "metrics.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        }
+    ],
+    "appName": "Test942",
+    "usedBy": {
+        "Test942": [
+            "Suites.js"
+        ]
+    }
+}

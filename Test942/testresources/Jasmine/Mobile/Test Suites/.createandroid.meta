@@ -1,0 +1,22 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "createandroid",
+    "testCaseInfo": [
+        {
+            "testcaseName": "sample.js",
+            "selectedDataset": "dataset",
+            "appName": "Test942"
+        },
+        {
+            "testcaseName": "object1.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        }
+    ],
+    "appName": "Test942",
+    "usedBy": {
+        "Test942": [
+            "createandroid.js"
+        ]
+    }
+}

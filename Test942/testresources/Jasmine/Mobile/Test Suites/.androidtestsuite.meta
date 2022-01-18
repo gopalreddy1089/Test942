@@ -1,0 +1,42 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "androidtestsuite",
+    "testCaseInfo": [
+        {
+            "testcaseName": "setup.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "objectsync.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "setflow.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "getflow.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "flushevent.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        },
+        {
+            "testcaseName": "custommetrics.js",
+            "appName": "Test942",
+            "selectedDataset": "dataset"
+        }
+    ],
+    "appName": "Test942",
+    "usedBy": {
+        "Test942": [
+            "androidtestplan.js"
+        ]
+    }
+}
